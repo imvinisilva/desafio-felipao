@@ -1,1 +1,2 @@
-console.log("Inicio");
+let saudacoes = "Eai, como vai?"
+console.log(saudacoes);
