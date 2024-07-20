@@ -2,6 +2,7 @@ let nomeHeroi = "Mister Tramontina"
 let xpHeroi = "100000"
 
 console.log("Olá, aventureiro!!")
+console.log("Seu XP é de " + xpHeroi)
 
 if(xpHeroi <= 1000 ){
     nivel = "Ferro"
