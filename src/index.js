@@ -1,5 +1,5 @@
 let nomeHeroi = "Mister Tramontina"
-let xpHeroi = "100000"
+let xpHeroi = "10000"
 
 console.log("Olá, aventureiro!!")
 console.log("Seu XP é de " + xpHeroi)
@@ -17,7 +17,7 @@ if(xpHeroi <= 1000 ){
 }else if(xpHeroi <= 9000 ){
     nivel = "Ascendente"
 }else if(xpHeroi <= 10000){
-    xpHeroi = "Imortal"
+    nivel = "Imortal"
 } else if (xpHeroi > 10000){
     nivel = "Radiante"
 }
